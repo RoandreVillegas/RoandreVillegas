@@ -1,4 +1,4 @@
-<img src = images/img_for_github.jpg> 
+<img src = images/img_for_readme.jpg> 
 
 ### Hi there, I'm Roandre! 👋
 
