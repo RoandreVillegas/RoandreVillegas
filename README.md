@@ -1,6 +1,8 @@
 <img src = images/img_for_readme.jpg> 
 
-### Hi there, I'm Roandre! 👋
+### Hi there, I'm Roandre (he/him)! 👋
+
+I'm currently a second year student at the University of Guelph majoring in Computer Engineering.  Passionate about the field and eager to learn more as I continue my journey to become a computer engineer! 
 
 <!--
 **RoandreVillegas/RoandreVillegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
