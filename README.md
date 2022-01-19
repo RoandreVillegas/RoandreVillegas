@@ -5,7 +5,20 @@
 I am currently a second year student at the University of Guelph majoring in Computer Engineering (Co-Op).  Passionate about the field and eager to learn more about Science and Technology as I continue my journey to become a computer engineer! 
 
 ### Languages I know:
-<a href = images/
+<div>
+ <img src = images/c-.png width = "40" height = "40">
+ <img src = images/c-sharp.png width = "40" height = "40">
+ <img src = images/icons8-c-programming-48.png width = "40" height = "40">
+ <img src = images/java.png width = "40" height = "40">
+ <img src = images/js.png width = "40" height = "40">
+ <img src = images/python.png width = "40" height = "40">
+ <img src = images/swift.png width = "40" height = "40">
+ <img src = images/html.png width = "40" height = "40">
+ <img src = images/css-3.png width = "40" height = "40">
+</div>
+
+### Tools I use for development: 
+
 
 <details>
  <summary><strong>What I am currently working on:</strong></summary>
