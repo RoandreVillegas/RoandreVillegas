@@ -19,6 +19,8 @@ I am currently a second year student at the University of Guelph majoring in Com
 
 ### Tools I use for development: 
 <div>
+ <img src = images/icons8-ios-logo-64.png width = "40" height = "40">
+ <img src = images/icons8-windows-11-48.png width = "40" height = "40">
  <img src = images/icons8-visual-studio-code-2019-48.png width = "40" height = "40">
  <img src = images/icons8-sublime-text-48.png width = "40" height = "40">
  <img src = images/Atom_1.0_icon.png width = "40" height = "40">
