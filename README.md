@@ -4,14 +4,17 @@
 
 I am currently a second year student at the University of Guelph majoring in Computer Engineering (Co-Op).  Passionate about the field and eager to learn more about Science and Technology as I continue my journey to become a computer engineer! 
 
+### Languages I know:
+
 <details>
- <summary><strong>What I am currently learning/working on:</strong></summary>
+ <summary><strong>What I am currently working on:</strong></summary>
  <ul>
    <li>GUI development in Java</li>
    <li>Front end development (HTML/CSS/JavaScript)</li>
    <li>Image rendering using ray tracing</li>
  </ul>
 </details>
+
 
 ## GitHub Stats 
 [![Roandre's github stats](https://github-readme-stats.vercel.app/api?username=RoandreVillegas&theme=chartreuse-dark)](https://github.com/RoandreVillegas/github-readme-stats)
