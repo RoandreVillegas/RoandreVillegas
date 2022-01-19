@@ -8,7 +8,7 @@ I am currently a second year student at the University of Guelph majoring in Com
  <summary><strong>What I am currently learning/working on:</strong></summary>
  <ul>
    <li>GUI development in Java</li>
-   <li>Front end development</li>
+   <li>Front end development (HTML/CSS/JavaScript)</li>
    <li>Image rendering using ray tracing</li>
  </ul>
 </details>
