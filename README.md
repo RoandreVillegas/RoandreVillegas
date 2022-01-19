@@ -19,19 +19,19 @@ I am currently a second year student at the University of Guelph majoring in Com
 
 ### Tools I use for development: 
 <div>
-  <img src = images/icone-github-violet.png width = "40" height = "40">
-  <img src = images/icons8-linux-48.png width = "40" height = "40">
-  <img src = images/icons8-sublime-text-48.png width = "40" height = "40">
-  <img src = images/icons8-visual-studio-code-2019-48.png width = "40" height = "40">
-  <img src = images/Atom_1.0_icon.png width = "40" height = "40">
+ <img src = images/icons8-visual-studio-code-2019-48.png width = "40" height = "40">
+ <img src = images/icons8-sublime-text-48.png width = "40" height = "40">
+ <img src = images/Atom_1.0_icon.png width = "40" height = "40">
+ <img src = images/icone-github-violet.png width = "40" height = "40">
+ <img src = images/icons8-linux-48.png width = "40" height = "40">
 </div>
 
 <details>
  <summary><strong>What I am currently working on:</strong></summary>
  <ul>
-   <li>GUI development in Java</li>
+   <li>GUI development (Java)</li>
    <li>Front end development (HTML/CSS/JavaScript)</li>
-   <li>Image rendering using ray tracing</li>
+   <li>Image rendering using ray tracing (C++)</li>
  </ul>
 </details>
 
