@@ -43,9 +43,11 @@ I am currently a second year student at the University of Guelph majoring in Com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoandreVillegas&layout=compact&theme=highcontrast)](https://github.com/RoandreVillegas/github-readme-stats)
 
 ## Some useful links to reach me 😄
-LinkedIn: https://www.linkedin.com/in/roandre-villegas/<br>
-Instagram: https://www.instagram.com/roandre___/<br>
-Email: roandre_villegas@rocketmail.com<br>
+<div>
+ <a href = "mailto:roandre_villegas@rocketmail.com"><img src = "images/icons8-mail-48.png" height = "40" height = "40"></a>
+ <img src = "images/icons8-linkedin-48.png" width = "40" height = "40"> <a href = "https://www.linkedin.com/in/roandre-villegas/"></a>
+ <img src = "images/icons8-instagram-48.png" width = "40" height "40">: https://www.instagram.com/roandre___/<br>
+</div>
 
 <!--
 **RoandreVillegas/RoandreVillegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
