@@ -5,6 +5,7 @@
 I am currently a second year student at the University of Guelph majoring in Computer Engineering (Co-Op).  Passionate about the field and eager to learn more about Science and Technology as I continue my journey to become a computer engineer! 
 
 ### Languages I know:
+<a href = images/
 
 <details>
  <summary><strong>What I am currently working on:</strong></summary>
