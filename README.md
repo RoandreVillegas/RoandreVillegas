@@ -18,7 +18,13 @@ I am currently a second year student at the University of Guelph majoring in Com
 </div>
 
 ### Tools I use for development: 
-
+<div>
+  <img src = images/icons8-github.png width = "40" height = "40">
+  <img src = images/icons8-linux-48.png width = "40" height = "40">
+  <img src = images/icons8-sublime-text-48.png width = "40" height = "40">
+  <img src = images/icons8-visual-studio-code-2019-48.png width = "40" height = "40">
+  <img src = images/icons8-atom-editor-50.png width = "40" height = "40" style = "color: green">
+</div>
 
 <details>
  <summary><strong>What I am currently working on:</strong></summary>
