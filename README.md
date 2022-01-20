@@ -1,4 +1,4 @@
-# Hi, I'm Roandre! 👋
+# Hi, I'm Roandre! <img src = "images/wave.gif" width = "40" height = "40">
 
 <img src = images/img_for_readme.jpg> 
 
@@ -17,7 +17,7 @@ I am currently a second year student at the University of Guelph majoring in Com
  <img src = images/css-3.png width = "40" height = "40">&nbsp&nbsp&nbsp&nbsp&nbsp
 </div>
 
-## Tools
+## Tools <img src = "images/computer.gif" height= "30">
 <div>
  <img src = images/icons8-ios-logo-64.png width = "40" height = "40">&nbsp&nbsp&nbsp&nbsp&nbsp
  <img src = images/icons8-windows-11-48.png width = "40" height = "40">&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -38,7 +38,7 @@ I am currently a second year student at the University of Guelph majoring in Com
 </details>
 
 
-## GitHub Stats
+## GitHub Stats <img src = "images/graph.gif" width = "40"> 
 [![Roandre's github stats](https://github-readme-stats.vercel.app/api?username=RoandreVillegas&theme=chartreuse-dark)](https://github.com/RoandreVillegas/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoandreVillegas&layout=compact&theme=highcontrast)](https://github.com/RoandreVillegas/github-readme-stats)
 
