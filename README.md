@@ -42,7 +42,7 @@ I am currently a second year student at the University of Guelph majoring in Com
 [![Roandre's github stats](https://github-readme-stats.vercel.app/api?username=RoandreVillegas&theme=chartreuse-dark)](https://github.com/RoandreVillegas/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoandreVillegas&layout=compact&theme=highcontrast)](https://github.com/RoandreVillegas/github-readme-stats)
 
-## Connect with me <img src = "images/mail2.gif" width = "60">
+## Connect with me <img src = "images/mail.gif" width = "30">
 <div>
  <a href = "mailto:roandre_villegas@rocketmail.com"><img src = "images/email.png" width = "40" height = "40" style = "margin: 40px;"></a>&nbsp&nbsp&nbsp&nbsp&nbsp
  <a href = "https://www.linkedin.com/in/roandre-villegas/"><img src = "images/icons8-linkedin-48.png" width = "40" height = "40"></a>&nbsp&nbsp&nbsp&nbsp&nbsp
