@@ -4,7 +4,7 @@
 
 I am currently a second year student at the University of Guelph majoring in Computer Engineering (Co-Op).  Passionate about the field and eager to learn more about Science and Technology as I continue my journey to become a computer engineer! 
 
-## Languages
+## Languages <img src = "images/binary.gif" width = "40" height = "40">
 <div>
  <img src = images/c-.png width = "40" height = "40">&nbsp&nbsp&nbsp&nbsp&nbsp
  <img src = images/c-sharp.png width = "40" height = "40">&nbsp&nbsp&nbsp&nbsp&nbsp
