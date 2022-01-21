@@ -15,6 +15,7 @@ I am currently a second year student at the University of Guelph majoring in Com
  <img src = images/swift.png width = "40" height = "40">&nbsp&nbsp&nbsp&nbsp&nbsp
  <img src = images/html.png width = "40" height = "40">&nbsp&nbsp&nbsp&nbsp&nbsp
  <img src = images/css-3.png width = "40" height = "40">&nbsp&nbsp&nbsp&nbsp&nbsp
+ <img src = images/matlab.png width = "40" height = "40">&nbsp&nbsp&nbsp&nbsp&nbsp
 </div>
 
 ## Tools <img src = "images/computer.gif" height= "30">
