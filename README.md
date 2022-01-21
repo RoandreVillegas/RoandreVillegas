@@ -28,14 +28,14 @@ I am currently a second year student at the University of Guelph majoring in Com
  <img src = images/icons8-linux-48.png width = "40" height = "40">&nbsp&nbsp&nbsp&nbsp&nbsp
 </div>
 <br>
-<details>
- <summary><strong>What I am currently working on:</strong></summary>
+
+<strong>What I am currently working on:</strong></summary>
  <ul>
    <li>GUI development (Java)</li>
    <li>Front end development (HTML/CSS/JavaScript)</li>
    <li>Image rendering using ray tracing (C++)</li>
  </ul>
-</details>
+
 
 
 ## GitHub Stats <img src = "images/graph.gif" width = "40"> 
