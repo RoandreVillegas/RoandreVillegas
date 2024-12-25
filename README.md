@@ -2,7 +2,7 @@
 
 <img src = images/img_for_readme.jpg> 
 
-I am currently a second year student at the University of Guelph majoring in Computer Engineering (Co-Op).  Passionate about the field and eager to learn more about Science and Technology as I continue my journey to become a computer engineer! 
+I am currently a fifth year student at the University of Guelph majoring in Computer Engineering (Co-Op).  Passionate about the field and eager to learn more about Science and Technology as I continue my journey to become a computer engineer! 
 
 ## Languages <img src = "images/code.gif" height = "30">
 <div>
